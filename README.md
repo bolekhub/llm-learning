@@ -1,4 +1,4 @@
-## 🚀 How to run it
+##  How to run it
  
 ### Option 1 — Google Colab (easiest, free, PyTorch pre-installed) ✅
  
@@ -22,7 +22,7 @@ jupyter notebook transformer_block.ipynb
  
 ---
  
-## 📖 Article Series
+## Article Series
  
 This repo is the code companion to the **Demystifying LLMs** series on LinkedIn — written for developers, from a developer still figuring it out.
  
