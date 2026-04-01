@@ -26,8 +26,8 @@ jupyter notebook transformer_block.ipynb
  
 This repo is the code companion to the **Demystifying LLMs** series on LinkedIn — written for developers, from a developer still figuring it out.
  
-- [Tokenization, Embeddings & Attention](#) — *the building blocks*
-- [What happens inside a Transformer block?](#) — *Q, K, V, FFN, and why it all repeats*
+- [Tokenization, Embeddings & Attention](https://www.linkedin.com/pulse/demystifying-llms-part-2-tokenization-embeddings-chirino-fernandez-0fi0e/) — *the building blocks*
+- [What happens inside a Transformer block?](https://www.linkedin.com/pulse/demystifying-llms-part-3-what-happens-inside-block-chirino-fernandez-lq1ke/) — *Q, K, V, FFN, and why it all repeats*
 - *(coming soon)* Training, loss functions & backpropagation
  
 ---
