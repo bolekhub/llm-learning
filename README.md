@@ -1,13 +1,13 @@
 ##  How to run it
  
-### Option 1 — Google Colab (easiest, free, PyTorch pre-installed) ✅
+### Option 1 — Google Colab (easiest, free, PyTorch pre-installed) 
  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bolekhub/llm-learning/blob/main/transformer_block.ipynb)
  
 Or manually:
 1. Go to [colab.research.google.com](https://colab.research.google.com)
 2. **File → Upload notebook** → upload `transformer_block.ipynb`
-3. **Run all cells** — no setup needed ✅
+3. **Run all cells** — no setup needed 
  
 ### Option 2 — Local
  
